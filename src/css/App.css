@@ -1,0 +1,57 @@
+
+.Description
+{
+  font-weight: bold;
+  color: rgb(234, 250, 10);
+}
+
+.fatal
+{
+  color: rgb(101, 255, 12);
+}
+
+.normal
+{
+  color: green;
+}
+.tab
+{
+  border: 1px solid white;
+  width: 150px;
+  border-collapse: collapse;
+}
+.proto table td
+{
+  color: white;
+  text-align: center;
+  border: 1px solid whitesmoke;
+}
+.proto table th
+{
+  width: 50px;
+  border: 1px solid honeydew;
+  text-align: center;
+}
+.deathwish
+{
+  padding: 2px;
+  margin: 10px;
+  font-size: 25px;
+  border-radius: 7px;
+  cursor: pointer;
+  color: rgb(2,2,2);
+  transition: .3s;
+  border: 1px solid white;
+}
+.deathwish:hover
+{
+  padding: 2px;
+  margin: 10px;
+  font-size: 25px;
+  border-radius: 7px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(2, 2, 2);
+  transition: .3s;
+  border: 1px solid white;
+}
